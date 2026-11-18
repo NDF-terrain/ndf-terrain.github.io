@@ -1,6 +1,6 @@
 {
-  "name": "Clasper · Frais",
-  "short_name": "Frais",
+  "name": "Notes de frais · Clasper",
+  "short_name": "NDF",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
